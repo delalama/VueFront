@@ -52,10 +52,10 @@ Brilliant
 Responsive
 ---
 
-![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
-![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
-![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/10.png)
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/11.png)
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/12.png)
 
-![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
-![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
-![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
