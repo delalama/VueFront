@@ -51,11 +51,16 @@ Brilliant
 
 Responsive
 ---
+Desktop
 
 ![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/10.png)
+
+Tablet
+
 ![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/11.png)
+
+Mobile
+
 ![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/12.png)
 
-![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
-![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
-![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
+...................................
