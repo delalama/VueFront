@@ -38,12 +38,10 @@ Vue media query let you use this kind of languaje to render depending declared s
 
 
 Declare sizes on your main.js
-
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/2.png)
 
 apply them
-
+![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/3.png)
 
 Brilliant
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[]: https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif
 ![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
