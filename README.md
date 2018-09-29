@@ -46,4 +46,4 @@ apply them
 Brilliant
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 []: https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif
-
+![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
