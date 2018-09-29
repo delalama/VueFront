@@ -48,3 +48,14 @@ apply them
 Brilliant
 
 ![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+
+Responsive
+---
+
+![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
+![Alt Text](https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif)
