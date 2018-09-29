@@ -62,5 +62,3 @@ Tablet
 Mobile
 
 ![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/12.png)
-
-...................................
