@@ -27,6 +27,8 @@ Usage
 ---
 All this libraries have been installed via npm and imported and used on main.js
 
+[](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
+
 Learned
 ---
 
