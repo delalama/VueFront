@@ -27,7 +27,7 @@ I've used this libraries to design this frontend
 
 Usage
 ---
-All this libraries have been installed via npm and imported and used on main.js
+All this libraries have been installed via npm and imported on main.js
 
 ![Alt Text](https://github.com/delalama/VueFront/blob/master/myweb/5.png)
 
